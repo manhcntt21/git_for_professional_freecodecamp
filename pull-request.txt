@@ -1,0 +1,6 @@
+ý tượng cơ bản:
+    giao tiếp để review code
+    nếu không có pull request bạn sẽ merge code thẳng vào nhánh master hoặc main
+    contribute code to other repositores (đóng góp code cho dự án)
+
+    fork: là bản sao mã cá nhân của bạn về kho lưu trữ, thực hiện các thay đổi và tạo pull request
