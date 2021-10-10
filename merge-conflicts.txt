@@ -1,3 +1,15 @@
 Khi tích hợp code từ nhiều nguồn khác nhau sẽ có khả năng dẫn tới conflicts
 
+<<<<<<< HEAD
 Tái hiện conflict (viết một vài dòng gi đó trên master)
+=======
+bên nhánh test cũng thay đổi cùng file với bên master
+>>>>>>> test
+
+
+khi không hủy bỏ merge hoặc rebase (quay về trạng thái trước khi chạy  2 lệnh trên)
+    + git merge --abort
+    hoặc
+    + git rebase --abort 
+    
+    tùy thuộc vào lúc đầu chạy lệnh gì
