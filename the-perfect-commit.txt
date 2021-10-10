@@ -1,2 +1,4 @@
 1 add the right changes
 2 compose a good commit message
+
+một file có nhiều sự thay đổi có thể tách nhiều nhiều commit khác nhau, mỗi commit liên quan đến một phần chẳng hạn
