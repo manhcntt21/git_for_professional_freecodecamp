@@ -1,0 +1,2 @@
+Khi tích hợp code từ nhiều nguồn khác nhau sẽ có khả năng dẫn tới conflicts
+
