@@ -2,3 +2,8 @@
 2 compose a good commit message
 
 một file có nhiều sự thay đổi có thể tách nhiều nhiều commit khác nhau, mỗi commit liên quan đến một phần chẳng hạn
+
+a good commit
+    + less than 80 characters
+    +  Subject: tóm tắt ngắn ngọn chuyện gì xảy ra
+       Body: 
