@@ -1,0 +1,28 @@
+1 mainline development: always be integrating
+    + few branches
+    + relatively smaill commit
+    + high-quality testing & QA standarts
+2 state, release, and feature branches
+    + branches enhace structures & wworkflow
+    + long-running & short-live branches
+        + long-running:
+            master
+            develop
+
+            production
+            staging
+
+            các cam kết không bao giờ được thêm trực tiếp vào nhánh này, mà thông qua nhánh integration, có 2 lý do
+                1. mã phải được kiểm tra cẩn thận, trải qua các bài kiểm tra đánh giá ở các giai đoạn khác nhau để có thể được tích hợp vào môi trường production
+                2. release bundling and schedule
+        + short-live
+            các feature branches, bug fixes, refactorings, experiments
+            sẽ bị xóa sau khi tích hợp (merge/rebase)
+    + Có 2 loại branching strategies: 
+        tham khảo github flow
+            + quy trình cực kỳ gọn gàng và đơn giản
+            + more structures, more rule
+            + long-running : main + develop
+            + short-live: features, releases, hotfixes
+        git flow: như cái trên chỉ là tên gọi khác
+        
