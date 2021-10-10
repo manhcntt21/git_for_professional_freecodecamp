@@ -1,0 +1,5 @@
+1 the perfect commit
+2 branching strategies
+3 pull request
+4 merge conflicts
+5 merge vs rebase
