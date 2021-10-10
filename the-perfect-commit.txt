@@ -7,3 +7,6 @@ a good commit
     + less than 80 characters
     +  Subject: tóm tắt ngắn ngọn chuyện gì xảy ra
        Body: 
+        - cái gì khác với trước đó
+        - lý do thay đổi
+        - có điều gi đặc biệt chú ý
