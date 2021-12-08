@@ -1,0 +1,3 @@
+[submodule "parent_module/git_submodule/git_submodule"]
+	path = parent_module/git_submodule/git_submodule
+	url = https://github.com/manhcntt21/git_submodule.git
